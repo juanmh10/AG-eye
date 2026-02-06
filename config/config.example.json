@@ -1,0 +1,48 @@
+{
+  "threshold_percent": 55.0,
+  "full_percent": 87.75510204081633,
+  "bar_color": [
+    1.814814805984497,
+    1.814814805984497,
+    58.0
+  ],
+  "color_tol": 12.0,
+  "trigger_frames": 3,
+  "cooldown_seconds": 8.0,
+  "poll_interval_ms": 30,
+  "use_grounding": true,
+  "roi": {
+    "x": 22,
+    "y": 121,
+    "width": 49,
+    "height": 5
+  },
+  "red_hsv": {
+    "h1": [
+      0,
+      120,
+      70
+    ],
+    "h2": [
+      10,
+      255,
+      255
+    ],
+    "h3": [
+      170,
+      120,
+      70
+    ],
+    "h4": [
+      180,
+      255,
+      255
+    ]
+  },
+  "debug": {
+    "enabled": false,
+    "log_every_n": 10,
+    "save_frames": true,
+    "frames_dir": "debug_frames"
+  }
+}
