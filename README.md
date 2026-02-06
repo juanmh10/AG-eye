@@ -8,7 +8,7 @@ MVP: monitora a vida do Animate Guardian (AG) e envia `Esc` quando atingir o lim
 
 ## Clonar
 ```bash
-git clone https://github.com/<usuario>/<repo>.git
+git clone https://github.com/juanmh10/AG-eye.git
 cd poe-test
 ```
 
